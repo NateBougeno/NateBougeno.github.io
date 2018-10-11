@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.1.2",
+    "@types/react-router-dom": "^4.3.1",
+    "es-cookie": "^1.2.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts-ts": "3.1.0",
     "react-text-mask": "^5.4.3"
   },
