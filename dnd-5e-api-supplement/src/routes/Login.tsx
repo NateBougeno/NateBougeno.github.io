@@ -131,6 +131,9 @@ namespace LoginPage {
                '&&&&:hover:before': {
                     borderBottom: '1px solid black'
                }
+          },
+          error: {
+               color: 'red'
           }
      })
 }
